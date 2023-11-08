@@ -1,0 +1,7 @@
+title: Client
+# Set page where you want to redirect the user to after login
+home: /
+# Disallow panel access
+permissions:
+  access:
+    panel: false
